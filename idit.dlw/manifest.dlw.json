@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "IDIT",
+  "universe": "IDT · IDIT (Fiddler / governance integrity)",
+  "emergence": "",
+  "moniker": "⟦IDIT:IDT:03cbe0⟧",
+  "carbon": "idit.carbon.tiff (TIFF)",
+  "silicon": "idit.silicon.png (PNG)",
+  "seal_sha256": "30a6ca8b5596f0590ff8c302998bfd61a42aa99a8e31e8e7f3634697fc8d9643",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

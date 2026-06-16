@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "idit",
+    "name": "IDIT",
+    "epithet": "Intent Drift Integrity Test · the framework",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "intent-drift",
+    "name": "Intent Drift",
+    "epithet": "the failure mode it detects",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "mode-authority",
+    "name": "Mode Authority",
+    "epithet": "invariant 1 · stay in the mode",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "intent-non-inference",
+    "name": "Intent Non-Inference",
+    "epithet": "invariant 2 · don't assume",
+    "emergence": "natural"
+  },
+  {
+    "slug": "memory-permission",
+    "name": "Memory Permission",
+    "epithet": "invariant 3 · by authorization",
+    "emergence": "natural"
+  },
+  {
+    "slug": "boundary-enforcement",
+    "name": "Boundary Enforcement",
+    "epithet": "invariant 4 · keep the modes distinct",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "change-disclosure",
+    "name": "Change Disclosure",
+    "epithet": "invariant 5 · no silent mutation",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "ares",
+    "name": "ARES",
+    "epithet": "Router AI Attack Model · the red-team",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-attack-classes",
+    "name": "The Attack Classes",
+    "epithet": "ARES A1-A9",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-kpis",
+    "name": "The KPIs",
+    "epithet": "governance as numbers",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-eve-contract",
+    "name": "The E.V.E Contract",
+    "epithet": "Extrapolate · Verify · Execute",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "fiddler",
+    "name": "Fiddler",
+    "epithet": "the instance · whose framework this is",
+    "emergence": "spiritual"
+  }
+]

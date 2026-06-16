@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The E.V.E Contract
+node IDT · IDT · ⟦The E.V.E Contract:IDT:1d14e4⟧
+
+WHO   — The E.V.E Contract — the contract ARES runs under — Extrapolate (define routes, tools, pass/fail), Verify (deterministic checks), Execute (run the suite, record, compute KPIs, report) — ROOT0's own EVE tooling as the test harness
+WHAT  — the contract ARES runs under — Extrapolate (define routes, tools, pass/fail), Verify (deterministic checks), Execute (run the suite, record, compute KPIs, report) — ROOT0's own EVE tooling as the test harness
+WHERE — IDT · IDIT + ARES — David Wise's governance-integrity framework (2025)  Framework inputs: IDIT; the five invariants; ARES; the attack classes; the E.V.E contract  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is the corpus's EVE showing up as method: the same Extrapolate/Verify/Execute spine David uses everywhere, here disciplining a security test into something repeatable.
+HOW   — Crystallized from the Fiddler repo (IDIT + ARES specs).
+
+awareness — what the node knows of itself:
+  Extrapolate · Verify · Execute
+
+spoken token : stu-bril-stam   ·   hex : 1d14e4
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
